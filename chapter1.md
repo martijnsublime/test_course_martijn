@@ -1,11 +1,11 @@
 ---
-title       : Insert the chapter title here
-description : Insert the chapter description here
+title       : My first chapter
+description : A description of my first chapter
 attachments :
   slides_link : https://s3.amazonaws.com/assets.datacamp.com/course/teach/slides_example.pdf
 
 --- type:MultipleChoiceExercise lang:r xp:50 skills:1 key:14193bf18c
-## A really bad movie
+## A really good movie
 
 Have a look at the plot that showed up in the viewer to the right. Which type of movie has the worst rating assigned to it?
 
